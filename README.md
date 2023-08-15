@@ -10,6 +10,10 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Cococoin Core software, see the release tab.
 
+Website: https://cococoin.lol
+Mining Pool: http://cococoin.lol:8080
+Explorer: http://cococoin.lol:3001/
+
 License
 -------
 
