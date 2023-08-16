@@ -13,6 +13,7 @@ the Cococoin Core software, see the release tab.
 Website: https://cococoin.lol
 Mining Pool: http://cococoin.lol:8080
 Explorer: http://cococoin.lol:3001/
+Official Telegram https:/t.me/cococoin_pow
 
 License
 -------
