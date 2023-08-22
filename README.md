@@ -23,4 +23,5 @@ Cococoin Core is released under the terms of the MIT license. See [COPYING](COPY
 Donations 
 ---------
 BTC donations: bc1q0rytqc5wc5nukghey2k08p9mheteagy64juy22
+
 COCO donations: CUSXDL9NwoQ5mm9DRdwyARwS6v3KdyQPe4
