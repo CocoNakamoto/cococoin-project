@@ -10,13 +10,14 @@ software which enables the use of this currency.
 For more information, as well as an immediately useable, binary version of
 the Cococoin Core software, see the release tab.
 
-Website: https://cococoin.lol
-
-Mining Pool: http://cococoin.lol:8080
-
-Explorer: http://explorer.cococoin.lol
-
-Official Telegram https:/t.me/cococoin_pow
+Useful Links:
+- Official Website: https://cococoin.lol 
+- Mining Pool: http://cococoin.lol:8080 
+- Block Explorer: https://explorer.cococoin.lol 
+- Follow Us on Twitter: https://twitter.com/cococoin_pow 
+- Join Us on Telegram: https://t.me/cococoin_pow 
+- Connect on Discord: https://discord.gg/XJaB9X3TCD
+- Bitcoin Talk: https://bitcointalk.org/index.php?topic=5464075.msg62729891#msg62729891
 
 
 License
