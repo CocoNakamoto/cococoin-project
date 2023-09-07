@@ -19,6 +19,12 @@ Useful Links:
 - Connect on Discord: https://discord.gg/XJaB9X3TCD
 - Bitcoin Talk: https://bitcointalk.org/index.php?topic=5464075.msg62729891#msg62729891
 
+Exchanges:
+- SafeTrade - https://safe.trade/trading/cocousdt
+
+- xeggex - https://xeggex.com/market/COCO_USDT
+- xeggex - https://xeggex.com/market/COCO_BTC
+
 
 License
 -------
